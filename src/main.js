@@ -1,4 +1,4 @@
-import { searchCep, getAddress } from './helpers/cepFunctions';
+import { searchCep } from './helpers/cepFunctions';
 import './style.css';
 import { fetchProductsList, fetchProduct } from './helpers/fetchFunctions';
 import { createCartProductElement, createProductElement } from './helpers/shopFunctions';
